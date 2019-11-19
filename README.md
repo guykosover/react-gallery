@@ -5,7 +5,7 @@ In this exercise, you will use state with an API to make a gallery.
 Download this video to see how it should look like: [Download](https://github.com/evyros/react-gallery/blob/master/public/result.mp4?raw=true).
 
 ### Instructions:
-1. Fork this repo to your account
+1. Fork this repo to your account  
 2. Clone it
 3. `cd react-gallery`
 4. `npm install`
